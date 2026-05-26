@@ -2,7 +2,7 @@
   "name": "temporal-diff",
   "productName": "temporal-diff",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "temporal-diff is an editor where you can see changes to your files in real time.",
   "main": ".vite/build/main.js",
   "private": true,
   "scripts": {
